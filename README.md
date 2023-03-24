@@ -1,6 +1,6 @@
 API URL
 -----------
-https://ai.cococtweaks.net/img/api/
+https://ai.cocotweaks.net/img/api/
 
 Function
 -----------
@@ -29,7 +29,7 @@ Get cropped image by GET method:
 
 You can just use the this url to crop the image. This method will return an cropped image directly, not JSON result.
 
-https://ai.cococtweaks.net/img/api/?imageUrl={image_url}&width={image_width}&height={image_height}
+https://ai.cocotweaks.net/img/api/?imageUrl={image_url}&width={image_width}&height={image_height}
 
 
 Get cropped image by POST method:
